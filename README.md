@@ -1,2 +1,9 @@
-# Speech-Recognition-System
-This Python program converts an audio file (MP3/WAV) into text by calculating its duration, transcribing speech using Google Speech Recognition, and optionally saving the transcription as a report.
+# Speech Recognition System
+
+This folder contains the Speech Recognition System project.
+
+## File(s)
+- `Speech_Recognition_System.py`: Main script for speech recognition.
+- `Sample_Audio.wav`: Sample audio file for testing.
+- `transcript1`: Example transcript output.
+- `requirements.txt`: Python dependencies for this project. 
